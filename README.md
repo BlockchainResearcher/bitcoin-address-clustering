@@ -66,4 +66,3 @@ Notes
 - The script skips transactions that are detected as CoinJoin, where multiple participants combine their inputs into a single transaction.
 - Change addresses are detected and added to the cluster when possible.
 - You must have a working API to fetch Bitcoin transaction data, as the script does not provide its own API service.
-![image](https://github.com/user-attachments/assets/cf081fb5-de9a-4d26-81f0-e2403e8c406b)
